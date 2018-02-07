@@ -9,6 +9,8 @@ function yourAnimal() {
   return youranimal
 }
 
+
+
 var funkyFunction = function() {
   return function() {
     return "FUNKY!"
