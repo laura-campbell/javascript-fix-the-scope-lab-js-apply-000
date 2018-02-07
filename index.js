@@ -13,10 +13,8 @@ function add2(n) {
   return n + 2
 }
 
-function funkyFunction  {
-  return function() {
+function funkyFunction () {
     return "FUNKY!"
-  }
 }
 
 var theFunk = funkyFunction 
