@@ -1,10 +1,10 @@
+var animal;
 
-
-function myAnimal(animal) {
+function myAnimal() {
   return animal
 }
 
-function yourAnimal(animal) {
+function yourAnimal() {
   return animal
 }
 
