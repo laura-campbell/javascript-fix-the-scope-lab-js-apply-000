@@ -19,4 +19,4 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = function (funkyFunction)
+var theFunk = console.log(funkyFunction)
